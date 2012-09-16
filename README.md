@@ -13,10 +13,8 @@ Enable your account to be a full featured bot in a Plug.DJ room.
 In order to use this script to enable your bot, you will need to have a computer running some sort of web browser which<br>
 has the ability to use bookmarks.
 
-1) Simply make a new bookmark.
-2) Name it however you wish and direct its URL to:
-<center>javascript: (function () { var jsCode = document.createElement('script'); jsCode.setAttribute('id', 'roombot'); jsCode.setAttribute('src', 'https://raw.github.com/RoyalSoda/Plug.DJ-Room-Bot/master/bot.js'); document.body.appendChild(jsCode); }()); </center>
-
-3) Go into the Plug.DJ room of your choice and click on your bookmark.
+1) Simply make a new bookmark.<br>
+2) Name it however you wish and direct its URL to the code found <a href="http://bit.ly/SRQVIQ">here</a>.<br>
+3) Go into the Plug.DJ room of your choice and click on your bookmark.<br>
 
 Powered by the <a href="http://blog.plug.dj/api-documentation/">Plug.DJ API</a>.
