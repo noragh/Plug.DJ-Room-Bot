@@ -19,5 +19,5 @@ has the ability to use bookmarks.
 <b>3)</b> Go into the Plug.DJ room of your choice and click on your bookmark.<br>
 
 <h2>Copyright</h2>
-This script is protected by the <a href="http://harry-j.com/projects/LU.txt">Limited Use</a> license (LU).
+This script is protected by the <a href="http://harry-j.com/projects/LU.txt">Limited Use</a> license (LU).<br>
 Powered by the <a href="http://blog.plug.dj/api-documentation/">Plug.DJ API</a>.
