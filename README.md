@@ -1,6 +1,7 @@
 Plug.DJ-Room-Bot
 ================
-Enable your account to be a full featured bot in a Plug.DJ room.
+Enable your account to be a full featured bot in a Plug.DJ room. This script will allow your room to have a more enjoyable<br>
+experience.
 
 <h2>Features</h2>
 - Automatically greet users.
@@ -17,4 +18,6 @@ has the ability to use bookmarks.
 <b>2)</b> Name it however you wish and direct its URL to the code found <a href="http://bit.ly/SRQVIQ">here</a>.<br>
 <b>3)</b> Go into the Plug.DJ room of your choice and click on your bookmark.<br>
 
+<h2>Copyright</h2>
+This script is protected by the <a href="http://harry-j.com/projects/LU.txt">Limited Use</a> license (LU).
 Powered by the <a href="http://blog.plug.dj/api-documentation/">Plug.DJ API</a>.
