@@ -10,17 +10,7 @@
 function join(user) { 
 
     var welcomeArray = [
-        "Aloha",
-        "Howdy!",
-        "Welcome!",
-        "Hello, human!",
-        "Hola!",
-        "What's up?",
-        "Hey",
-        "Yo,",
-        "How have you been?,",
-        "sup,",
-        "Hi there"];
+        "Hi"];
 	
     var randomN = Math.floor(Math.random() * welcomeArray.length); 
   
@@ -130,9 +120,7 @@ function readChat(data) {
         if (isChat != true) {
 		
             var watArray = [
-                "I don't know what you're trying to tell me. @" + data.from + "",
-                "Hey, we bots need some sleep too.",
-                "I'm not in a chatty mood right now"];
+                "3333.3333.3333"];
   
             var randomN = Math.floor(Math.random() * watArray.length); 
   
