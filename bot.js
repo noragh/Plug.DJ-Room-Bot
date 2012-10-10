@@ -109,14 +109,9 @@ function readChat(data) {
         }
 
 		//If the message tagging your bot did not match any of the above.
-        if (isChat != true) {
-		
-            var watArray = [
-                "3333.3333.3333"];
+        if (isChat != true) 
   
-            var randomN = Math.floor(Math.random() * watArray.length); 
-  
-            API.sendChat(watArray[randomN]); 
+            API.sendChat("I'm a BOT!"); 
         } 
     }}
 
