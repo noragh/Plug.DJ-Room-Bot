@@ -1,4 +1,7 @@
-//Welcome a user upon joining/entering.
+//Welcome a user upon joining/entering. 
+//Hi my name is Nora
+//what am I doing
+
 function join(user) { 
 
     var welcomeArray = [
